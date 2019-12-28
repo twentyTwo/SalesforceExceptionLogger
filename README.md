@@ -1,4 +1,7 @@
 # SalesforceExceptionLogger
+A handy error logger for salesforce
+https://medium.com/@noor.alam.shuvo/a-handy-error-logger-in-salesforce-to-write-the-exceptions-to-a-custom-object-2b6f79e4c0ef
+
 In salesforce, the debugging is not developer-friendly, we all know. Actually it logs all the things, but the real hectic thing is to find out the expected log from tons of debug logs in the developer console.
 
 And it is also very boring to find out the desired log from a file like this.
