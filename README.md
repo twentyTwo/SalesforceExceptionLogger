@@ -2,6 +2,8 @@
 
 The Salesforce Apex Exception Logger is a utility class designed to simplify the process of logging exceptions in a Salesforce custom object named `Exception_Logger__c`. This README provides guidelines on how to use this utility and includes some common use cases.
 
+You can find more detail here at [my blog](https://salesforceable.medium.com/a-handy-error-logger-in-salesforce-to-write-the-exceptions-to-a-custom-object-2b6f79e4c0ef)
+
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Usage](#usage)
@@ -78,7 +80,7 @@ try {
 
 2. **Logging Integration Errors:**
 
-   Log exceptions encountered when making external API calls or integrating with other systems.
+   Log exceptions are encountered when making external API calls or integrating with other systems.
 
 ```apex
 try {
@@ -115,9 +117,8 @@ To make the most out of the Salesforce Apex Exception Logger, consider the follo
 
 ## Contributing
 
-Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/your-repo-link).
+Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/twentyTwo/SalesforceExceptionLogger/issues).
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
